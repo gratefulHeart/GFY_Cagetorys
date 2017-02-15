@@ -13,5 +13,5 @@
 - (float) heightWithFont: (UIFont *) font withinWidth: (float) width;
 - (float) widthWithFont: (UIFont *) font;
 - (NSString *)md5;
-- (NSString *)URLEncodedString;
+//- (NSString *)URLEncodedString;
 @end
